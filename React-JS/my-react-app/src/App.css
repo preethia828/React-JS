@@ -1,0 +1,42 @@
+.add_button {
+  margin-left: 15px;
+  margin-right: 10px;
+  border-radius: 3px;
+  border: 1px;
+  width: 5%;
+  height: 27px;
+  /* font-size: 11px; */
+  font-weight: 600;
+  background: lightslategray;
+  color: #fff;
+}
+.del_button {
+  border-radius: 3px;
+  border: 1px;
+  width: 5%;
+  height: 27px;
+  /* font-size: 11px; */
+  font-weight: 600;
+  background: lightslategray;
+  color: #fff;
+}
+.input_field {
+  margin-left: 5px;
+  border: 1px;
+  border-radius: 5px;
+  width: 25%;
+  height: 30px;
+  background: gainsboro;
+}
+
+.input_label {
+  font-size: larger;
+  font-family: sans-serif;
+  margin-left: 5px;
+}
+.data_value {
+  /* font-size: larger; */
+  font-family: sans-serif;
+  margin-left: 30px;
+  margin-top: 25px;
+}
